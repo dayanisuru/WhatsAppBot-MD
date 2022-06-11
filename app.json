@@ -4,8 +4,8 @@
 	"description": "Fully Costamisable Bot by, dayan isuru.",
 	"repository": "https://github.com/dayanisuru/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","D A Y A N I S U R U"],
+	"logo": "https://avatars.githubusercontent.com/u/64305?v=4",
+	"keywords": ["multi-device","dayanisuru"],
 	"stack": "container",
 	"env": { 
     "OWNER": {
