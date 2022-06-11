@@ -111,12 +111,12 @@ OR
   <br><br>
   # `Deploy In Heroku`
 
-
-<a href="https://gist.github.com/dayanisuru/WhatsAppBot-MD"><img title="dayanisuru" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dayanisuru/WhatsAppBot-MD)
 
 ##😹😹
   
-
+https://heroku.com/deploy?template=https://github.com/dayanisuru/WhatsAppBot-MD
 
 <!---->
 
