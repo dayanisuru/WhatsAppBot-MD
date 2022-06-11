@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/dayanisuru/4a3f940e9e65eee62fd76ffebf302cf1"><img title="D A Y A N I S U R U" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/dayanisuru/WhatsAppBot-MD"><img title="dayanisuru" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 ##😹😹
   
