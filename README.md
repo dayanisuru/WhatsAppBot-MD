@@ -114,7 +114,7 @@ OR
 
 <a href="https://gist.github.com/dayanisuru/4a3f940e9e65eee62fd76ffebf302cf1"><img title="D A Y A N I S U R U" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
-
+##😹😹
   
 
 
@@ -129,7 +129,7 @@ Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD 
+  https://heroku.com/deploy?template=https://github.com/dayanisuru/WhatsAppBot-MD 
   ```
   
   <br> <br>
