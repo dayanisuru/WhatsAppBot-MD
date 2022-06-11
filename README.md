@@ -112,7 +112,7 @@ OR
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/dayanisuru/4a3f940e9e65eee62fd76ffebf302cf1"><img title="D A Y A N I S U R U" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
 
   
@@ -141,7 +141,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Alien-alfa/WhatsAppBot-MD
+git clone https://github.com/dayanisuru/WhatsAppBot-MD
 cd WhatsAppBot-MD
 rm -rf session.alfa.json
 npm install
