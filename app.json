@@ -1,11 +1,11 @@
 
 {
 	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"description": "Fully Costamisable Bot by, dayan isuru.",
+	"repository": "https://github.com/dayanisuru/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
+	"keywords": ["multi-device","D A Y A N I S U R U"],
 	"stack": "container",
 	"env": { 
     "OWNER": {
@@ -16,7 +16,7 @@
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alien"
+            "value": "dayan"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,7 +26,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "Isuru"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -64,12 +64,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "D A Y A N I S U R U"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "D A Y A N I S U R U"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -89,7 +89,7 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/dayanisuru/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -99,12 +99,12 @@
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "D A Y A N I S U R U"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "D A Y A N  I S U R U"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
